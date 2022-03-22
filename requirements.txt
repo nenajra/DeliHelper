@@ -52,8 +52,6 @@ pyrsistent==0.18.0
 python-dateutil==2.8.2
 pytz==2021.3
 pywebio==1.5.2
-#pywin32==302
-pywinpty==1.1.6
 pyzmq==22.3.0
 requests==2.26.0
 Send2Trash==1.8.0
@@ -61,7 +59,6 @@ six==1.16.0
 sniffio==1.2.0
 soupsieve==2.3.1
 subbreaker==1.2.0
-#terminado==0.12.1
 testpath==0.5.0
 tornado==6.1
 traitlets==5.1.1
